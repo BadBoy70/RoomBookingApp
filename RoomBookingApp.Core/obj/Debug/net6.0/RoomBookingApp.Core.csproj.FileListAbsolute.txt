@@ -1,0 +1,12 @@
+/home/hossein/RiderProjects/RoomBookingApp/RoomBookingApp.Core/bin/Debug/net6.0/RoomBookingApp.Core.deps.json
+/home/hossein/RiderProjects/RoomBookingApp/RoomBookingApp.Core/bin/Debug/net6.0/RoomBookingApp.Core.dll
+/home/hossein/RiderProjects/RoomBookingApp/RoomBookingApp.Core/bin/Debug/net6.0/ref/RoomBookingApp.Core.dll
+/home/hossein/RiderProjects/RoomBookingApp/RoomBookingApp.Core/bin/Debug/net6.0/RoomBookingApp.Core.pdb
+/home/hossein/RiderProjects/RoomBookingApp/RoomBookingApp.Core/obj/Debug/net6.0/RoomBookingApp.Core.csproj.AssemblyReference.cache
+/home/hossein/RiderProjects/RoomBookingApp/RoomBookingApp.Core/obj/Debug/net6.0/RoomBookingApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/hossein/RiderProjects/RoomBookingApp/RoomBookingApp.Core/obj/Debug/net6.0/RoomBookingApp.Core.AssemblyInfoInputs.cache
+/home/hossein/RiderProjects/RoomBookingApp/RoomBookingApp.Core/obj/Debug/net6.0/RoomBookingApp.Core.AssemblyInfo.cs
+/home/hossein/RiderProjects/RoomBookingApp/RoomBookingApp.Core/obj/Debug/net6.0/RoomBookingApp.Core.csproj.CoreCompileInputs.cache
+/home/hossein/RiderProjects/RoomBookingApp/RoomBookingApp.Core/obj/Debug/net6.0/RoomBookingApp.Core.dll
+/home/hossein/RiderProjects/RoomBookingApp/RoomBookingApp.Core/obj/Debug/net6.0/ref/RoomBookingApp.Core.dll
+/home/hossein/RiderProjects/RoomBookingApp/RoomBookingApp.Core/obj/Debug/net6.0/RoomBookingApp.Core.pdb
